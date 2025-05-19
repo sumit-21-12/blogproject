@@ -1,0 +1,4 @@
+node_modules/
+.env
+blog/node_modules/
+blogs/node_modules/
